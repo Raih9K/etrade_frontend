@@ -1,3 +1,5 @@
 pytest
 selenium
 webdriver-manager
+selenium ide
+selenium-ide 
